@@ -1,11 +1,3 @@
-# Demo
+Data Analyst Projects
 
-Something sha!
-
-## Subheader
-
-Watch tutorial on Youtube
-
-## Local Development
-
-1. Open index.html in your browser
+This repository is created for the purpose of showcasing my data related projects using Power Bi, SQL and Python.
